@@ -58,7 +58,7 @@ El inventario soporta:
 
 _(Ejemplos de UI y visualización de inventario con assets gratuitos)_  
 
-![Inventario 1](https://github.com/MiltonCastro93/Inventario_Unity/blob/main/Inventario1.png)  
+![Inventario 1](https://github.com/MiltonCastro93/Inventory_System-Unity-C-/blob/main/Captura%20de%20pantalla%202025-11-02%20173129.png)  
 > *Vista del inventario con ordenamiento aplicado y búsqueda de ítems.*
 
 ---
